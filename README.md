@@ -117,7 +117,7 @@
 
   Bash
   
-  git clone https://github.com/ganeshingle.ds/student_performance_analysis.git
+  git clone https://github.com/ganeshingle-ds/student_performance_analysis.git
   
   Navigate to Project Directory
   
